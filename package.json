@@ -1,0 +1,13 @@
+{
+  "name": "wallet-tokens-lambda",
+  "version": "0.0.1",
+  "description": "get tokens metadata from address",
+  "main": "index.js",
+  "repository": "git@github.com:yamapyblack/wallet-tokens-lambda.git",
+  "author": "yamapyblack <s25050730r@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ethers": "^5.0.32"
+  }
+}
